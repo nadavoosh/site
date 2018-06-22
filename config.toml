@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://nadavrec.ca"
 languageCode = "en-us"
 title = "Nadav Recca"
 
@@ -15,7 +15,7 @@ pygmentsCodefences      = true
     homepage            = "main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = "Call me Sam, a theme for Hugo."
+    footerText          = "n a d a v r e c c a ."
 
 # Metadata
     description         = "A new Hugo site."            # Max 160 characters show in search results
@@ -29,8 +29,8 @@ pygmentsCodefences      = true
     text = "projects"
 
 [[params.mainMenu]]
-    link = "/photos"
-    text = "photos"
+    link = "/gallery"
+    text = "gallery"
 
 [[params.mainMenu]]
     link = "/about"

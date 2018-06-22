@@ -1,0 +1,8 @@
+#!/bin/sh
+USER=nadavr
+HOST=207.38.86.152
+DIR=webapps/home
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+
+exit 0
