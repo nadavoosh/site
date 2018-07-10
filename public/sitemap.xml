@@ -3,21 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://nadavrec.ca/projects/hivemindplaylists/</loc>
+    <lastmod>2018-06-25T21:00:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nadavrec.ca/projects/eleventhour/</loc>
+    <lastmod>2018-06-25T20:43:15-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nadavrec.ca/projects/</loc>
+    <lastmod>2018-06-25T21:00:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nadavrec.ca/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://nadavrec.ca/</loc>
+    <lastmod>2018-06-25T21:00:33-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/gallery/</loc>
+    <loc>https://nadavrec.ca/gallery/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://nadavrec.ca/tags/</loc>
     <priority>0</priority>
   </url>
   
