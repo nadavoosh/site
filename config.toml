@@ -3,10 +3,7 @@ languageCode = "en-us"
 title = "Nadav Recca"
 
 
-theme                   = "sam"
-pygmentsStyle           = "manni"                     # https://help.farbox.com/pygments.html
-pygmentsCodefences      = true
-# googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
+theme                   = "quincy"
 
 [params]
     dateform            = "Mon Jan 02, 2006"
