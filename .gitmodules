@@ -4,3 +4,9 @@
 [submodule "themes/sam"]
 	path = themes/sam
 	url = https://github.com/vickylai/hugo-theme-sam.git
+[submodule "themes/whiteplain"]
+	path = themes/whiteplain
+	url = https://github.com/taikii/whiteplain.git
+[submodule "themes/beyondnothing"]
+	path = themes/beyondnothing
+	url = https://github.com/salcan/BeyondNothing.git
