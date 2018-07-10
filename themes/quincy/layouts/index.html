@@ -1,17 +1,17 @@
 {{ partial "header.html" . }}
-  <h1>posts</h1>
-  {{ range first 10 .Data.Pages }}
-    {{ if eq .Type "post"}}
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+<div class="section" id="splash">
+  {{ if .Site.Params.mainMenu }}
+    {{ range .Site.Params.mainMenu }}
+    <div class="menu-item">
+      <a href="{{.link}}">{{.text}}</a>
+    </div>
+    {{ end }}
+  {{ else }}
+    {{ range .Site.Sections }}
+    <div id="big-link">
+      <a href="{{.Permalink}}">{{.Title}}</a>
+    </div>
     {{ end }}
   {{ end }}
-
-  <h1>pages</h1>
-  {{ range .Data.Pages }}
-    {{ if eq .Type "page" }}
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    {{ end }}
-  {{ end }}
-
-
-  {{ partial "footer.html" . }}
+</div>
+{{ partial "footer.html" . }}
