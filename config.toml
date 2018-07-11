@@ -8,7 +8,6 @@ theme                   = "quincy"
 [params]
     footerText          = "n a d a v r e c c a ."
     HomeLinkText        = "Home."
-    backSymbol          = "&#x219C;"
 
 [[params.mainMenu]]
     link = "/about"
