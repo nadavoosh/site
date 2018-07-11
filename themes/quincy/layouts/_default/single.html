@@ -1,5 +1,7 @@
 {{ partial "header.html" . }}
-
+ {{ if .Section }}
+    {{ partial "section_link.html" . }}
+ {{ end }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 

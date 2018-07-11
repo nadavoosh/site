@@ -5,6 +5,7 @@ footer {
     width: 100%;
     text-align: center;
 }
+
 .menu-item {
     font-size: 250%;
     font-style: italic
@@ -13,5 +14,8 @@ footer {
 body {
     font-family: 'Inconsolata', monospace;
     font-size: 22px;
+}
 
+.no-underline-link {
+    text-decoration: none;
 }

@@ -7,10 +7,8 @@ I am Nadav Recca.
 
 I live in San Francisco, California and I like to watch sunrises & sunsets.
 
-I like to read poetry outloud to friends. Sometimes I write poetry too, but that's just to try it out.
+I also spend time forcing my bike up big hills, forcing my brain to speak new languages, and forcing computers to do things.
 
-And I also spend time forcing my bike up big hills, forcing my brain to speak new languages, and forcing computers to do things.
+That's about all the forcing I like to do in life, though. The rest is just riding the earth.
 
-That's about all the forcing I like to do in life, though. The rest is coasting.
-
-I would love for you [to say hi to me](mailto:ami@nadavrec.ca).
+I would love for you [to say hi](mailto:nadav@nadavrec.ca).
