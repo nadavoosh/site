@@ -6,4 +6,4 @@
     <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet'>
 </head>
 <body>
-{{ if not (or ( .IsHome ) ( eq .CurrentSection .Section ) )}} {{ partial "home_link.html" . }} {{end}}
+{{ if not (or ( .IsHome ) ( and (eq .Kind "page") .Section ) )}} {{ partial "home_link.html" . }} {{end}}
