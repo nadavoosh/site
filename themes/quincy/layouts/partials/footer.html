@@ -1,5 +1,6 @@
 
 <footer>
+    {{ if not (or ( .IsHome ) ( and (eq .Kind "page") .Section ) )}} {{ partial "home_link.html" . }} {{end}}
     <p>{{ .Site.Params.footerText }}</p>
   </footer>
 </body>
