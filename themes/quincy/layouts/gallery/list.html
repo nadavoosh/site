@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+  <p>{{ .Content }}</p>
+  {{ range .Data.Pages }}
+    <h1><a href={{ .Permalink }}>{{ .Title }}</a></h1>
+  {{ end }}
+
+
+<div class="grid">
+    {{ $name := "images/" }}
+    {{ $path := "gallery/" }}
+    {{ $content := "/content/" }}
+    {{ $src := (print $path $name) }}
+
+    {{ $folder := (print $content $path $name) }}
+
+    {{ $files := readDir $folder }}
+
+    {{ range shuffle $files }}
+    <div>
+        <a href="{{ $src | absURL }}{{ .Name }}">
+            <img src="{{ $src | absURL }}{{ .Name }}" alt="{{ .Name }}"/>
+        </a>
+    </div>
+    {{ end }}
+</div>
+{{ partial "footer.html" . }}

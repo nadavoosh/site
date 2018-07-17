@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+
+<div>
+    <p>Not all those who wander are lost</p>
+    <p>You seem to be, though</p>
+    <p><a href="{{ "/" | relURL }}">{{ .Site.Params.HomeLinkText}}</a></p>
+</div>
+
+{{ partial "footer.html" . }}
