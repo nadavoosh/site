@@ -2,4 +2,4 @@
 
 This is the github repo for my personal website. 
 
-It uses the (hugo)[https://gohugo.io/] framework.  
+It uses the wonderful [hugo](https://gohugo.io/) framework.  
