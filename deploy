@@ -1,6 +1,6 @@
 #!/bin/sh
-USER=nadavr
-HOST=207.38.86.152
+USER=nadav
+HOST=138.197.212.240
 DIR=webapps/home
 
 hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}

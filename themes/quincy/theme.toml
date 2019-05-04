@@ -5,11 +5,11 @@ name = "Quincy"
 license = "MIT"
 licenselink = "https://github.com/nadavoosh/quincy/blob/master/LICENSE"
 description = ""
-homepage = "https://nadavrec.ca/"
+homepage = "https://nadavrecca.com/"
 tags = []
 features = []
 min_version = "0.41"
 
 [author]
   name = "Nadav Recca"
-  homepage = "https://nadavrec.ca/"
+  homepage = "https://nadavrecca.com/"

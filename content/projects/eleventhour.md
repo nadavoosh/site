@@ -7,6 +7,6 @@ Our clock divides the day into two 12-hour halves.
 
 Obviously, 12 was an important number for many ancient civilizations, which gave us our 12 hour days and nights.
 
-I wondered what our clocks would look like if that number was different. What if we had [11 hour clocks](https://nadavrec.ca/eleventhour)? or [24 hour clocks](https://nadavrec.ca/eleventhour#24)? Or [37 hour clocks](https://nadavrec.ca/eleventhour#37)? With 11 hours, the differences are subtle but drive the clock into uncanny-valley territory, which is territory I like exploring.
+I wondered what our clocks would look like if that number was different. What if we had [11 hour clocks](https://nadavrecca.com/eleventhour)? or [24 hour clocks](https://nadavrecca.com/eleventhour#24)? Or [37 hour clocks](https://nadavrecca.com/eleventhour#37)? With 11 hours, the differences are subtle but drive the clock into uncanny-valley territory, which is territory I like exploring.
 
-You can generate a clock with any arbitrary number of hours by changing the number after the hash sign [in this URL](https://nadavrec.ca/eleventhour#11) (the default is 11.)
+You can generate a clock with any arbitrary number of hours by changing the number after the hash sign [in this URL](https://nadavrecca.com/eleventhour#11) (the default is 11.)
