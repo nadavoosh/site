@@ -1,4 +1,4 @@
-baseURL = "https://nadavrec.ca"
+baseURL = "https://nadavrecca.com"
 languageCode = "en-us"
 title = "Nadav Recca"
 
@@ -11,15 +11,15 @@ theme                   = "quincy"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "animal"
+    text = "animal (person)"
 
 [[params.mainMenu]]
     link = "/projects"
-    text = "vegetable"
+    text = "vegetable (place)"
 
 [[params.mainMenu]]
     link = "/gallery"
-    text = "mineral"
+    text = "mineral (thing)"
 
 
 
